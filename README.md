@@ -6,7 +6,7 @@
     <tr>
       <td align="center" width="100px""><b>Frontend</b></td>
       <td align="center" width="100px""><b>Backend</b></td>
-      <td align="center" width="100px""><b>DevOps</b></td>
+      <td align="center" width="100px""><b>Misc</b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
